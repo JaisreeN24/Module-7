@@ -35,7 +35,8 @@ To write a Python program to demonstrate **Head Recursion** by finding and print
       fun(num)
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/79c00f95-3d0b-4bc8-9182-b26ab5ad61b0)
+![image](https://github.com/user-attachments/assets/3019fc58-f8b3-44d1-a2d2-7ce67ca3a606)
+
 
 
 ## RESULT
