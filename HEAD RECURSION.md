@@ -35,7 +35,8 @@ To write a Python program to demonstrate **Head Recursion** by finding and print
       fun(num)
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/a1f6fc6b-8a24-4a48-91cb-0ea77f933f82)
+![image](https://github.com/user-attachments/assets/79c00f95-3d0b-4bc8-9182-b26ab5ad61b0)
+
 
 ## RESULT
 Thus, the program to write a Python program to demonstrate **Head Recursion** by finding and printing the sequence based on the sum of all digits (even or odd adjusted input) is verified and executed successfully.
