@@ -16,9 +16,26 @@ To write a Python program to demonstrate **Head Recursion** by finding and print
 7. **Stop**
 
 ## 💻 PROGRAM:
-
-ADD CODE HERE
+      def fun(n):
+          if n == 0:
+              return
+          fun(n // 10)
+          print(n % 10, end=' ')
+      
+      def sum_digits(n):
+          if n < 10:
+              return n
+          return sum_digits(n // 10) + n % 10
+      
+      num = int(input("Enter a number: "))
+      total = sum_digits(num)
+      
+      if total % 2 != 0:
+          num += 1
+      fun(num)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/a1f6fc6b-8a24-4a48-91cb-0ea77f933f82)
 
 ## RESULT
+Thus, the program to write a Python program to demonstrate **Head Recursion** by finding and printing the sequence based on the sum of all digits (even or odd adjusted input) is verified and executed successfully.
